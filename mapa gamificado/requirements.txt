@@ -1,6 +1,5 @@
-flask
-gunicorn
-flask_sqlalchemy
-flask_login
-werkzeug.security
-datetime
+Flask
+Flask-SQLAlchemy
+Flask-Login
+Werkzeug
+psycopg2-binary
